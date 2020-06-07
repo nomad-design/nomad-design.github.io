@@ -22,7 +22,7 @@ Ali Kemal Özkan
 ### Supervisor
 Uğur Güdükbay
 
-### Jury Commitee
+### Jury Committee
 Halil Altay Güvenir <br>
 Özcan Öztürk
 
