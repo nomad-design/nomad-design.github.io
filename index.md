@@ -36,7 +36,7 @@ Halil Altay Güvenir <br>
 Veysi İşler
 
 ### Project Poster
-![afiş](https://user-images.githubusercontent.com/66538043/83956788-69029c80-a86a-11ea-8bb9-7894e2da59d6.jpg)
+![a4afiş](https://user-images.githubusercontent.com/66538043/83965255-008fdb80-a8bb-11ea-96b6-834dd0df84b7.jpg)
 
 ### Video
 
