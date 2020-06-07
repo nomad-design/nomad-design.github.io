@@ -29,3 +29,7 @@ Veysi İşler
 
 ### Project Poster
 ![afiş](https://user-images.githubusercontent.com/66538043/83956788-69029c80-a86a-11ea-8bb9-7894e2da59d6.jpg)
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jZ_7HuRL-YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
