@@ -10,11 +10,11 @@ Nomad is a mobile application which aims to help travellers explore new places b
 
 ### Team members
 Gülnihal Muslu <br> 
-Berk Ataç <br>
+Berk Ataç 
 <img width="646" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83956868-f8a84b00-a86a-11ea-8ad4-07623f488cc5.png">
-Can Ozan Kaş <br>
-Ali Kemal Özkan <br>
-Tarık Emin Kaplan <br>
+Can Ozan Kaş 
+Ali Kemal Özkan 
+Tarık Emin Kaplan 
 <img width="635" alt="Ekran Resmi 2020-06-07 02 59 01" src="https://user-images.githubusercontent.com/66538043/83956863-f2b26a00-a86a-11ea-8607-b9182d31a7b9.png">
 
 ### Supervisor
