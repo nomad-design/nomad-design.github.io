@@ -9,11 +9,13 @@ Nomad is a mobile application which aims to help travellers explore new places b
 [Final Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/FinalReport_Nomad.pdf)<br>
 
 ### Team members
-Gülnihal Muslu <br> ![afiş](https://user-images.githubusercontent.com/66538043/83956788-69029c80-a86a-11ea-8bb9-7894e2da59d6.jpg)
+Gülnihal Muslu <br> 
 Berk Ataç <br>
+<img width="646" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83956868-f8a84b00-a86a-11ea-8ad4-07623f488cc5.png">
 Can Ozan Kaş <br>
 Ali Kemal Özkan <br>
 Tarık Emin Kaplan <br>
+<img width="635" alt="Ekran Resmi 2020-06-07 02 59 01" src="https://user-images.githubusercontent.com/66538043/83956863-f2b26a00-a86a-11ea-8607-b9182d31a7b9.png">
 
 ### Supervisor
 Uğur Güdükbay
@@ -24,3 +26,6 @@ Halil Altay Güvenir <br>
 
 ### Innovation Expert
 Veysi İşler
+
+### Project Poster
+![afiş](https://user-images.githubusercontent.com/66538043/83956788-69029c80-a86a-11ea-8bb9-7894e2da59d6.jpg)
