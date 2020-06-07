@@ -1,5 +1,5 @@
 ## Description of the project
-<p align="center">
+<p align="justify">
 Nomad is a mobile application which aims to help travellers explore new places by following a “for travellers, by travellers” approach, in which people can create routes, and others can search a route according to their preference of what type of journey they would like to go on and where they want to explore. Users can add stops to the routes they create on specific locations that they seem worthy of attention, which act as “checkpoints” for other users who follow that route. Using augmented reality, users that follow routes can also collect tokens with using their cameras, those who obtain such tokens can get achievements.
  </p>
 
