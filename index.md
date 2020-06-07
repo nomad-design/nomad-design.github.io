@@ -11,12 +11,16 @@ Nomad is a mobile application which aims to help travellers explore new places b
 ### Team members
 
 <img width="75" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83957006-5c7f4380-a86c-11ea-8e04-51c98adf82ed.png">  
-Gülnihal Muslu <br> 
+<img width="75" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83957006-5c7f4380-a86c-11ea-8e04-51c98adf82ed.png"> 
+<img width="75" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83957006-5c7f4380-a86c-11ea-8e04-51c98adf82ed.png"> 
+<img width="75" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83957006-5c7f4380-a86c-11ea-8e04-51c98adf82ed.png"> 
+<img width="75" alt="Ekran Resmi 2020-06-07 02 59 22" src="https://user-images.githubusercontent.com/66538043/83957006-5c7f4380-a86c-11ea-8e04-51c98adf82ed.png"> 
+Gülnihal Muslu
 Berk Ataç 
 Can Ozan Kaş 
 Ali Kemal Özkan 
 Tarık Emin Kaplan 
-![Ekran Resmi 2020-06-07 02 59 01](https://user-images.githubusercontent.com/66538043/83957004-5ab58000-a86c-11ea-975d-b2491317fc06.png)
+
 
 
 ### Supervisor
@@ -34,6 +38,4 @@ Veysi İşler
 
 ### Video
 
-<!-- Call it with {% include youtube.html id=dQw4w9WgXcQ width=850 height=375 %} -->
-
-<iframe width="{{ include.width }}" height="{{ include.height }}" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eq8uI2oJd0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
