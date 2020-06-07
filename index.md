@@ -12,14 +12,12 @@ Nomad is a mobile application which aims to help travellers explore new places b
 
 ### Team members
 
-Berk Ataç 
-Tarık Emin Kaplan
-Can Ozan Kaş 
-Gülnihal Muslu
+Berk Ataç <br>
+Tarık Emin Kaplan <br>
+Can Ozan Kaş  <br>
+Gülnihal Muslu <br> 
 Ali Kemal Özkan 
  
-
-
 
 ### Supervisor
 Uğur Güdükbay
