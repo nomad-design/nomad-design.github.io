@@ -32,4 +32,6 @@ Veysi İşler
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jZ_7HuRL-YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- Call it with {% include youtube.html id=dQw4w9WgXcQ width=850 height=375 %} -->
+
+<iframe width="{{ include.width }}" height="{{ include.height }}" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
