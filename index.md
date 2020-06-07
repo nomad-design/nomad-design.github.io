@@ -27,6 +27,6 @@ Veysi İşler
 ### Project Poster
 ![a4afiş](https://user-images.githubusercontent.com/66538043/83965255-008fdb80-a8bb-11ea-96b6-834dd0df84b7.jpg)
 
-### Video
+### Demo Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50DPnB14vOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
