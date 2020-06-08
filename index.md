@@ -11,8 +11,9 @@ Nomad is a mobile application which aims to help travellers explore new places b
 [Final Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/FinalReport_Nomad.pdf)<br>
 
 ### Team members
-
+<p align="left">
 ![fotolar](https://user-images.githubusercontent.com/66538043/83972566-92aed880-a8e9-11ea-8534-5e524adc9ade.png)
+ </p>
 
 ### Supervisor
 Uğur Güdükbay
@@ -29,4 +30,4 @@ Veysi İşler
 
 ### Demo Video
 
-<iframe width="280" height="163" src="https://www.youtube.com/embed/50DPnB14vOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50DPnB14vOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
