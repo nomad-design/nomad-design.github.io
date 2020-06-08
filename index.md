@@ -12,7 +12,8 @@ Nomad is a mobile application which aims to help travellers explore new places b
 
 ### Team members
 
-![fotolar](https://user-images.githubusercontent.com/66538043/83972566-92aed880-a8e9-11ea-8534-5e524adc9ade.png)
+![fotolar](https://user-images.githubusercontent.com/66538043/84003784-398b8700-a973-11ea-92f9-5e4b9bfd894c.png)
+
 
 
 ### Supervisor
