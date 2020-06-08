@@ -29,4 +29,4 @@ Veysi İşler
 
 ### Demo Video
 
-<iframe width="280" height="315" src="https://www.youtube.com/embed/50DPnB14vOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="163" src="https://www.youtube.com/embed/50DPnB14vOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
